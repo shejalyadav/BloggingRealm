@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_Server": "True",
+        "local_uri": "mysql://root:Welcome#0413@localhost/codestars",
+        "prod_uri": "mysql://root:Welcome#0413@localhost/codestars",
+        "fb_url": "https://facebook.com/bloggingrealm",
+        "tw_url":"https://twitter.com/bloggingrealm",
+        "gh_url":"https://github.com/bloggingrealm",
+        "blog_name": "Blogging Realm",
+        "tag_line": "You are here for blogs , write yours too! ",
+        "gmail-user" : "user-gmail",
+        "gmail-password" : "user-password",
+        "about_text" : "Step into a realm where words come to life. Our carefully curated collection of blog posts covers a wide spectrum of topics, ranging from the latest trends in technology, science, and culture to introspective pieces that touch the core of the human experience. With a diverse array of voices and viewpoints, we aim to foster a community that thrives on dialogue and mutual understanding.",
+        "no_of_posts" : 2,
+        "login_image": "login-bg.jpg",
+        "admin_user" : "shejal",
+        "admin_password" : "onlyshejallogin",
+        "upload_location": "C:\\Users\\Shejal Yadav\\PycharmProjects\\Blog\\static\\assets\\uploads_from_users"
+    }
+}
