@@ -13,8 +13,8 @@
         "about_text" : "Step into a realm where words come to life. Our carefully curated collection of blog posts covers a wide spectrum of topics, ranging from the latest trends in technology, science, and culture to introspective pieces that touch the core of the human experience. With a diverse array of voices and viewpoints, we aim to foster a community that thrives on dialogue and mutual understanding.",
         "no_of_posts" : 2,
         "login_image": "login-bg.jpg",
-        "admin_user" : "shejal",
-        "admin_password" : "onlyshejallogin",
+        "admin_user" : "your_username",
+        "admin_password" : "your_password",
         "upload_location": "C:\\Users\\Shejal Yadav\\PycharmProjects\\Blog\\static\\assets\\uploads_from_users"
     }
 }
